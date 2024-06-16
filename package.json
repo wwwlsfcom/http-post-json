@@ -1,0 +1,14 @@
+{
+  "name": "@liushengfeng/http-post-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
